@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 ## Description:
-Module 1 exercises and challenge are included in [Challenge 1_data-1-1-3-StarterBook.xlsx](https://github.com/SaraPnm/Challenge1_Kickstarter-Analysis.git/Challenge%201_data-1-1-3-StarterBook.xlsx)
+Module 1 exercises and challenge are included in [Challenge 1_data-1-1-3-StarterBook.xlsx](https://github.com/SaraPnm/Challenge1_Kickstarter-Analysis/raw/master/Challenge%201_data-1-1-3-StarterBook.xlsx)
 ### Challenge 1
 The green sheets *"Outcomes Based on Launch Date"* and *"Outcomes Based on Goals"* contain the requested information in Challenge 1. This challenge investigates two (2) parameters that affect Crowdfunding campaign outcomes:
 1. **Campaign Goals**
